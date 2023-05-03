@@ -528,6 +528,9 @@ ul, li{
     .underoverskrift{
         text-align: center;
     }
+    .text{
+    transform: translateY(-100px);
+}
    
 }
 
