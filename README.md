@@ -1,1 +1,1 @@
-# httsp://AnnikaRekdal.github.io/interiørdesign/html/index.html
+# /interiørdesign/html/index.html
