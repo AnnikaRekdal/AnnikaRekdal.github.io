@@ -532,6 +532,9 @@ ul, li{
 }
 
 @media(max-width: 450px){
+    .text p{
+    line-height: 25px;
+}
 .container1{
         grid-template-columns: 1fr;
         gap: 10px;
